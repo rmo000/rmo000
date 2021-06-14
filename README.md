@@ -1,4 +1,4 @@
-### Oi meu nome é Rubens Monteiro 👋
+### Hi my name is Rubens Monteiro 👋
 
 <p align="center">
   <a href="https://github.com/rmo000/github-readme-stats">
